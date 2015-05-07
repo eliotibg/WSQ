@@ -6,7 +6,7 @@ def inverse(x):
 n=[]
 l=[]
 x=int(input("Dame el numero menor de la serie: "))
-x1=int(input("dae ele numero mayor de l seri: "))
+x1=int(input("Dame ele numero mayor de l seri: "))
 
 for i in range(x1-x+1):
     n.append(x)
